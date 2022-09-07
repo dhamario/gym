@@ -447,6 +447,7 @@ margin: 0 auto;
 
 .program__card:hover .program__button{
   opacity: 1;
+  color: var(--title-color-black);
 }
 
 
